@@ -1,0 +1,1246 @@
+[
+  {
+    "ts": 1757172817795,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172832014,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172841955,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172851052,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172858137,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172865806,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172873075,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172885350,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757172894061,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757175085023,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757175098544,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757175120047,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757175144806,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757175155186,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757175165614,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757175207394,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757175224371,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757175231933,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757175238883,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176487932,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176505101,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176512217,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176519889,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176528323,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176535173,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176543924,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176550431,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176556458,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176562103,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176569814,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176580295,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176588958,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176599078,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176606781,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176622281,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757176630850,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176642069,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176648257,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176656081,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176665034,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176673160,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176679201,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176685262,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176693143,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176701003,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176709252,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176729490,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176735220,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176741798,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176747980,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176754866,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176763981,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176770305,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176781003,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176788959,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176795246,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176826860,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176832468,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176838711,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176845602,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176852248,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176876535,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176882516,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757176888571,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176896503,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176907400,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176913864,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757176922264,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177201761,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177208893,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177217034,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177643680,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177650463,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177656131,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177662643,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177668461,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177676294,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177681735,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177687491,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177693214,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757177699422,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177709345,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177717044,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177723764,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177731020,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757177738456,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182537425,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182543916,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182550231,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182555867,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182574633,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182612463,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182618362,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182629091,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182635528,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182642637,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182650993,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182659004,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182665110,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182670918,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182677674,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182686263,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182691257,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182711043,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182717032,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182724317,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182734432,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182740942,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182768635,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182775679,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182783968,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182790425,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182799780,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182818207,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182824909,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757182848391,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182855227,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182864166,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182870297,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182878132,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182886752,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182893477,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182899775,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182909160,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757182934320,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182952388,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757182958038,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757182969003,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183006269,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183012132,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183018162,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183023950,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183032940,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183082362,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183087801,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183093740,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183100204,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183107357,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183129196,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183136345,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183142173,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183148552,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183156991,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183848994,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183854989,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183861734,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183868071,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183887536,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183897503,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183906968,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183917583,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183925107,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183933461,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183944195,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183951570,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183957302,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757183963672,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757183978700,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184009282,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184017649,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184023962,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184030206,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184039187,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184054504,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184060533,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184070416,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184075870,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184087392,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184098363,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184106979,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184113505,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184119566,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184132565,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184141313,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184149605,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184156324,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184162339,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184178230,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184191035,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184202344,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184210798,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184218694,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184231221,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184254854,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184263429,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184268807,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184275172,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757184281082,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184299823,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184308266,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184314482,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184324446,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184335714,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184391260,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184397118,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184403250,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184409244,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184419862,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184440321,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757184446908,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184452989,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184458995,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184468602,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184478404,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184485159,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184492137,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184499093,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184507640,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184522594,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184531800,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184538227,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184543969,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184572168,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184601745,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184607680,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184614088,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184619950,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184626032,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184635604,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757184641234,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757184646921,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184653872,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184661828,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184669180,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184686097,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184691402,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184698415,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757184711395,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184737536,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184743193,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184749638,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184755388,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184766553,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184809008,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184822443,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184829722,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757184839578,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757184849192,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185717289,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185724698,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185730582,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185740549,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185756912,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185769435,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185776864,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185783543,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185789340,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185794927,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185803685,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185809445,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185815956,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185822937,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185835433,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185892149,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185898493,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185903773,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185910022,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185918588,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185925166,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185931736,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185937432,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185945104,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185955091,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185964606,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185970449,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757185976543,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185990304,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757185998620,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186007459,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186016784,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186027494,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186033894,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186039490,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186048240,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186054829,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186063059,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186069454,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186075745,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186083547,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186089827,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186097251,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186107008,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186113166,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186122691,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186128945,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186135804,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186141692,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186148260,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186188606,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186197122,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186203949,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186210826,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186227511,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186239287,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186247349,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186252149,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186265244,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757186272251,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186281339,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186289883,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186308746,
+    "outcome": "GREEN"
+  },
+  {
+    "ts": 1757186378939,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186386670,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186393359,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186401033,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186406836,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186546702,
+    "outcome": "RED"
+  },
+  {
+    "ts": 1757186553761,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186564923,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186571771,
+    "outcome": "BLACK"
+  },
+  {
+    "ts": 1757186593394,
+    "outcome": "BLACK"
+  }
+]

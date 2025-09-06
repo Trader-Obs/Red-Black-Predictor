@@ -1,0 +1,6 @@
+2025-04-15T01:15:09.454Z - Predicted: Red, Actual: GREEN Sorry, you chose RED!Play Next HandPlay Next Hand
+2025-04-15T01:16:25.536Z - Predicted: Black, Actual: RED  You Won   NGN 20.00 Play Next Hand  Play Next Hand
+2025-04-15T01:17:37.486Z - Predicted: BLACK  Sorry, you chose RED!  Play Next Hand  Play Next Hand, Actual: BLACK  Sorry, you chose RED!  Play Next Hand  Play Next Hand
+2025-04-15T01:18:53.132Z - Predicted: BLACK  Sorry, you chose RED!  Play Next Hand  Play Next Hand, Actual: BLACK  Sorry, you chose RED!  Play Next Hand  Play Next Hand
+2025-04-15T01:20:05.283Z - Predicted: Red, Actual: RED  Sorry, you chose BLACK!  Play Next Hand  Play Next Hand
+2025-04-15T01:21:23.612Z - Predicted: RED  You Won   NGN 20.00 Play Next Hand  Play Next Hand, Actual: RED  You Won   NGN 20.00 Play Next Hand  Play Next Hand
