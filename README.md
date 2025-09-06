@@ -1,4 +1,3 @@
-# red-black-predictor
 # IV Red–Black Predictor 🎲
 
 An experimental predictor for SportyBet’s **Red–Black (with Green)** game.  
