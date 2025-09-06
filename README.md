@@ -25,6 +25,33 @@ This project uses **Puppeteer** to scrape live game outcomes, applies **Markov c
 
 ---
 
+▶️ Usage
+
+Run the predictor:
+
+node iv-redblack-advanced.cjs
+
+
+Enter your SportyBet login details when prompted.
+
+The script will log in, navigate to Red–Black, observe outcomes, and start making predictions.
+
+---
+
+📈 Roadmap
+
+ Improve outcome parsing & normalization
+
+ Add advanced feature engineering (streaks, ratios, context windows)
+
+ Integrate ML models (logistic regression / LSTM)
+
+ Add Monte Carlo backtesting
+
+ UI dashboard for visualizing predictions vs. actual outcomes
+
+ ---
+ 
 ## 🚀 Installation
 ```bash
 # clone repo
@@ -33,3 +60,4 @@ cd iv-redblack-predictor
 
 # install dependencies
 npm install puppeteer readline-sync simple-statistics
+
